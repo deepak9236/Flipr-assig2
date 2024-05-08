@@ -1,0 +1,1 @@
+{"name":"Local: 2","url":"/home/kd/Desktop/test/assigment/wallet-management-api/2.cpp","tests":[{"id":1715175962440,"input":"4 7 3 9 6 1 8 0\n3\n1","output":"3,3,1,1,0"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"/home/kd/Desktop/test/assigment/wallet-management-api/2.cpp","group":"local","local":true}
